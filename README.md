@@ -12,7 +12,7 @@ Agence web à Jette, Bruxelles. Des sites qui prennent les rendez-vous, les devi
 
 | Offre | Pour qui | Prix |
 |---|---|---|
-| [Studio](https://pixelnoir.dev/fr/studio) | Le site qui travaille : réservations, commandes, devis, un assistant qui répond aux clients | dès 49 € par mois, mise en place dès 1 500 € |
+| [Studio](https://pixelnoir.dev/fr/studio) | Le site qui travaille : réservations, commandes, devis, un assistant qui répond aux clients | dès 29 € par mois, mise en place dès 1 500 € |
 | [Site vitrine](https://pixelnoir.dev/fr/creation-site-bruxelles) | Un site clair, rapide, bien référencé, livré en 7 jours | à partir de 500 € |
 | [Référencement et Google Ads](https://pixelnoir.dev/fr/referencement-google-ads) | Monter sur Google dans sa commune, ou lancer une campagne | dès 99 € par mois, sans engagement |
 | [Branding](https://pixelnoir.dev/fr/branding) | Photo produit et visuels de marque | dès 200 € HT |
